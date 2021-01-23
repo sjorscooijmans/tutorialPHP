@@ -26,8 +26,8 @@ if (strstr($_SERVER['SERVER_NAME'], 'fictional-university.local')){
 	define( 'DB_PASSWORD', 'root' );
 	define( 'DB_HOST', 'localhost' );
 } else {
-	define( 'DB_NAME', 'dbuakoi7aql82a' );
-	define( 'DB_USER', 'u1wmgjiaueqgm' );
+	define( 'DB_NAME', 'dbzdzimvil2wlg' );
+	define( 'DB_USER', 'uczvegkjnmjzz' );
 	define( 'DB_PASSWORD', 'GoogleBAE' );
 	define( 'DB_HOST', '127.0.0.1' );
 }
